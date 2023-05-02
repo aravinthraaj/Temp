@@ -1,0 +1,24 @@
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.options-container{
+  display: none;
+}
+#select{
+  padding: 10px;
+  width: 100%;
+}
+
+.select{
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+
+}
+
+.select:hover{
+  background-color: rgb(219, 231, 242);
+}
